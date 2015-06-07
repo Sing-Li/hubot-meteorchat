@@ -11,7 +11,7 @@ Quickly create new hubot integrations for Meteor based chats.
 ### Contents
 
 * universal adapter code
-* drivers for some leading Meteor based chat platforms
+* drivers for leading Meteor based chat platforms
 * tooling to make adapter development and bot development EASY
 
 #### Architecture
@@ -54,7 +54,7 @@ It took over three years, but Meteor finally found its killer app.
 
 It is *the modern chat platform*, not quite your grandpa's IRC - but just as realtime and integrates team collaboration features demanded by users:  linking everything they do, and all that they wish to store, with chat in the center of the ecosystem.
 
-To be absolutely fair, this couldn't have happen three years ago, but only now.  Thank largely to Slack, after multiple hairy 'pivots', finding its place in startup history.  Ironically, Slack is not (yet) and may never be Meteor based.
+To be absolutely fair, this couldn't have happened three years ago, but only now.  Thank largely to Slack, after multiple hairy 'pivots', finding its place in startup history.  Ironically, Slack is not (yet) and may never be Meteor based.
 
 Inevitably, if not already, all Meteor based chat apps evolves around a ..
 
