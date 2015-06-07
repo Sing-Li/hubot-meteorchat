@@ -8,6 +8,8 @@ Quickly create new hubot integrations for Meteor based chats.
 
 > *The universal hubot adapter for Meteor based chat and real-time messaging platforms.*
 
+![Image of hubot chatting up Meteor](https://raw.githubusercontent.com/Sing-Li/bbug/master/images/hm.png)
+
 ### Contents
 
 * universal adapter code
